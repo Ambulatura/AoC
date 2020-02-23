@@ -1,4 +1,6 @@
-# :star:Advent of Code 2019:star:
+# Advent of Code 2019
+
+AoC 2019 Solutions
 
 Day 1 part 1 :heavy_check_mark:<br>
 Day 1 part 2 :heavy_check_mark:<br>
