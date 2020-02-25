@@ -38,7 +38,7 @@ Day 11 part 2 :heavy_check_mark:<br>
 Day 12 part 1 :heavy_check_mark:<br>
 Day 12 part 2 :heavy_check_mark:<br>
 
-Day 13 part 1 :x:<br>
+Day 13 part 1 :heavy_check_mark:<br>
 Day 13 part 2 :x:<br>
 
 Day 14 part 1 :x:<br>
